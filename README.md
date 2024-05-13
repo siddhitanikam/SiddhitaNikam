@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 👋 Hi, I’m @SiddhitaNikam, a skilled and dedicated IT professional with diverse experience in software development.
+- 👀 I’m interested in open positions to work in the field of software development and data science to provide low-cost business solutions.
+- 🌱 I’m currently pursuing MS in Computer Engineering from Syracuse University, New York.
+- 💞 I’m looking to collaborate in full stack development with complete Software Development Life Cycle (SDLC) using my expertise in Java, Spring Frameworks, RESTful webservices and SQl, NoSQL databases as well as AWS cloud services.
+- 📫 How to reach me :- siddhitaanikam@gmail.com
+
 
 <!--
 **siddhitanikam/SiddhitaNikam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
